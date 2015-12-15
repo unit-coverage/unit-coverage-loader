@@ -1,0 +1,15 @@
+{
+  "name": "unit-coverage-loader",
+  "version": "4.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Marat Dulin",
+  "repository": "https://github.com/unit-coverage/unit-coverage-loader",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^0.2.12",
+    "minimatch": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
